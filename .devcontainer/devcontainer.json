@@ -26,6 +26,7 @@
 				"dbaeumer.vscode-eslint",
 				"esbenp.prettier-vscode",
 				"sissel.shopify-liquid",
+				"csstools.postcss",
 				"bradlc.vscode-tailwindcss",
 				"adrianwilczynski.alpine-js-intellisense"			
 			]
